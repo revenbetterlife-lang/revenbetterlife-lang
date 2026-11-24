@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Renad
 
-<!--
-**revenbetterlife-lang/revenbetterlife-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Second-year Data Science student at Al-Manoufia National University (class of 2028), based in Tanta, Egypt. Into AI, Python, and automating anything that repeats itself.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **n8n automations**: Telegram bots, WhatsApp lead qualification, and a workflow that generates AI videos from Gemini prompts.
+- **Data analysis in Python**: explored a supermarket sales dataset with analysis and visualization.
+- **OOP practice**: a book management system built on classes and input validation.
+- **AI-generated visual content**, including my pixel-art content series.
+
+## Toolbox
+
+`Python` `n8n` `Telegram Bots` `APIs` `AI Tools` `Excel`
+
+## Beyond the code
+
+- NASA Space Apps Challenge participant with team FloraX
+- Organizer at the Innovate AI Event
+- Competitive programming on Codeforces and AtCoder for fun
+
+Find me on [LinkedIn](https://www.linkedin.com/in/renad-mohamed-b26a3037b/)
